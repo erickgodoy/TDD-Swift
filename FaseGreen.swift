@@ -10,5 +10,5 @@ class Convertir {
 var c = Convertir();
 var numRomano = c.numDecimal(num:1);
 print(numRomano)
-//XCTAssertEqual(numRomano, "I", "Conversion Incorrecta")
+XCTAssertEqual(numRomano, "I", "Conversion correcta")
 
