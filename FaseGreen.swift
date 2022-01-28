@@ -2,7 +2,7 @@ import XCTest
 
 class Convertir {
     func numDecimal(num:Int) -> String {
-        return "";
+        return "I";
     }   
 }
 
