@@ -19,6 +19,8 @@ Conjunto de entrada
 //         return "";
 //     }   
 // }
+// var c = Convertir();
+// var numRomano = c.numDecimal(num:1);
 
 
 var numRomano = Convertir.numDecimal(1);
